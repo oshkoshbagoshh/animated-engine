@@ -127,3 +127,10 @@ Thumbs.db
 ## Misc
 .tern-port
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+
+# Heroku
+
+# AJ MISC Files
+zzmisc/
+
